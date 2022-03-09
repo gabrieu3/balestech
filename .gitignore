@@ -1,0 +1,11 @@
+# Ignore everything
+/package/*
+/package/front/*
+/package/front/src/*
+/package/front/build/*
+/package/front/node_modules/*
+
+# But not these files...
+!*/a/b/file1.txt
+!*/a/b/c/*
+

@@ -1,2 +1,0 @@
-# balestech
-Empresa de Tecnologia
