@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg height="3.731cm" viewBox="0 0 512 128" width="13.547cm" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <style bx:fonts="Montserrat">@import url(https://fonts.googleapis.com/css2?family=Montserrat%3Aital%2Cwght%400%2C100%3B0%2C200%3B0%2C300%3B0%2C400%3B0%2C500%3B0%2C600%3B0%2C700%3B0%2C800%3B0%2C900%3B1%2C100%3B1%2C200%3B1%2C300%3B1%2C400%3B1%2C500%3B1%2C600%3B1%2C700%3B1%2C800%3B1%2C900&amp;display=swap);</style>
+    <radialGradient gradientUnits="userSpaceOnUse" cx="178.446" cy="239.984" r="128.737" id="gradient-0" gradientTransform="matrix(2.002181, -0.016489, 0.009366, 0.999962, -186.730055, 3.04518)">
+      <stop offset="0" style="stop-color: rgba(0, 180, 66, 1)"/>
+      <stop offset="1" style="stop-color: rgba(0, 78, 29, 1)"/>
+    </radialGradient>
+  </defs>
+  <text style="fill: url(#gradient-0); font-family: Montserrat; font-size: 60px; font-weight: 700; letter-spacing: -5.5px; paint-order: fill; text-transform: lowercase; word-spacing: 3.9px; white-space: pre;" transform="matrix(1.920217, 0, 0, 2.047538, -102.247253, -422.164307)" x="55.3786" y="257.934">Balestech</text>
+</svg>
